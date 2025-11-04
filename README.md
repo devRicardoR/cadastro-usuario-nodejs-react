@@ -40,7 +40,7 @@ CORS
 └── README.md
 ⚙️ Como rodar o projeto
 1️⃣ Clonar o repositório
-git clone https://github.com/seu-usuario/nome-do-repo.git
+git clone https://github.com/devRicardoR/cadastro-usuario-nodejs-react.git
 cd nome-do-repo
 2️⃣ Instalar dependências
 
@@ -91,5 +91,5 @@ http://localhost:5173
 {
   "name": "Ricardo Cesar",
   "email": "ricardo@email.com",
-  "age": 28
+  "age": 27
 }
